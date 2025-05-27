@@ -1,7 +1,7 @@
-# [two-pointers]
+# Two Pointers
 
 ## When to use:
-- [searching and optimization]
+- searching and optimization
 
 ## Code template:
 ```python

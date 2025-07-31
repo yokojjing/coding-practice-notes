@@ -15,6 +15,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yokojjing/coding-practice-notes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yokojjing/coding-practice-notes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/yokojjing/coding-practice-notes/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/yokojjing/coding-practice-notes/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/yokojjing/coding-practice-notes/tree/master/0217-contains-duplicate) |
 ## Two Pointers
@@ -51,4 +52,8 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/yokojjing/coding-practice-notes/tree/master/0217-contains-duplicate) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/yokojjing/coding-practice-notes/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->

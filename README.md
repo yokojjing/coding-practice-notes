@@ -18,15 +18,18 @@
 | [0136-single-number](https://github.com/yokojjing/coding-practice-notes/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/yokojjing/coding-practice-notes/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/yokojjing/coding-practice-notes/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/yokojjing/coding-practice-notes/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yokojjing/coding-practice-notes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/yokojjing/coding-practice-notes/tree/master/0189-rotate-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/yokojjing/coding-practice-notes/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/yokojjing/coding-practice-notes/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/yokojjing/coding-practice-notes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/yokojjing/coding-practice-notes/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
@@ -52,8 +55,13 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/yokojjing/coding-practice-notes/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/yokojjing/coding-practice-notes/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/yokojjing/coding-practice-notes/tree/master/0136-single-number) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/yokojjing/coding-practice-notes/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->

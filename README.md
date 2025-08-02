@@ -30,6 +30,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yokojjing/coding-practice-notes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/yokojjing/coding-practice-notes/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/yokojjing/coding-practice-notes/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/yokojjing/coding-practice-notes/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yokojjing/coding-practice-notes/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
@@ -42,6 +43,7 @@
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/yokojjing/coding-practice-notes/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/yokojjing/coding-practice-notes/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |

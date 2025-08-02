@@ -4,8 +4,8 @@ class Solution:
         check = defaultdict(int)
         for i in range(len(s)):
             check[s[i]] += 1
-        for i in check:
-            if check[i] == 1:
-                return s.index(i)
+        for i,char in enumerate(s):
+            if check[char] == 1:
+                return i
         return -1
         

@@ -10,11 +10,9 @@ class Solution:
                 if board[i][j] == '.':
                     continue
                 
-                if board[i][j] in row_seen[i]:
-                    return False
-                if board[i][j] in col_seen[j]:
-                    return False
-                if board[i][j] in box_seen[(i//3,j//3)]:
+                if (board[i][j] in row_seen[i] or
+                    board[i][j] in col_seen[j] or
+                    board[i][j] in box_seen[(i//3,j//3)]):
                     return False
                 
                 row_seen[i].add(board[i][j])

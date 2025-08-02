@@ -1,11 +1,11 @@
-from collections import defaultdict
 class Solution:
+    from collections import defaultdict
     def firstUniqChar(self, s: str) -> int:
-        check = defaultdict(list)
+        check = defaultdict(int)
         for i in range(len(s)):
-            check[s[i]].append(i)
+            check[s[i]] += 1
         for i in check:
-            if len(check[i]) == 1:
-                return check[i][0]
+            if check[i] == 1:
+                return s.index(i)
         return -1
         

@@ -16,6 +16,7 @@
 | [0001-two-sum](https://github.com/yokojjing/coding-practice-notes/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yokojjing/coding-practice-notes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/yokojjing/coding-practice-notes/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/yokojjing/coding-practice-notes/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/yokojjing/coding-practice-notes/tree/master/0066-plus-one) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yokojjing/coding-practice-notes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/yokojjing/coding-practice-notes/tree/master/0136-single-number) |
@@ -57,6 +58,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/yokojjing/coding-practice-notes/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/yokojjing/coding-practice-notes/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/yokojjing/coding-practice-notes/tree/master/0189-rotate-array) |
 ## Sorting
@@ -76,4 +78,5 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/yokojjing/coding-practice-notes/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/yokojjing/coding-practice-notes/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->

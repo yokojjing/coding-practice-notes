@@ -2,8 +2,8 @@ from collections import Counter
 class Solution:
     def firstUniqChar(self, s: str) -> int:
         check = Counter(s)
-        for i,v in enumerate(s):
-            if check[v] == 1:
-                return i
+        for i in check:
+            if check[i] == 1:
+                return s.index(i)
         return -1
         

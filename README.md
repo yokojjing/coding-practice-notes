@@ -39,11 +39,13 @@
 | [0036-valid-sudoku](https://github.com/yokojjing/coding-practice-notes/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/yokojjing/coding-practice-notes/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yokojjing/coding-practice-notes/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/yokojjing/coding-practice-notes/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/yokojjing/coding-practice-notes/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/yokojjing/coding-practice-notes/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/yokojjing/coding-practice-notes/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/yokojjing/coding-practice-notes/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
@@ -82,4 +84,12 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/yokojjing/coding-practice-notes/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/yokojjing/coding-practice-notes/tree/master/0048-rotate-image) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/yokojjing/coding-practice-notes/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/yokojjing/coding-practice-notes/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->

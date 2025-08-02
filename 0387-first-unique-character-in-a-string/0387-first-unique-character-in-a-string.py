@@ -1,5 +1,5 @@
+from collections import defaultdict
 class Solution:
-    from collections import defaultdict
     def firstUniqChar(self, s: str) -> int:
         check = defaultdict(int)
         for i in range(len(s)):

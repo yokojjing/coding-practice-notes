@@ -38,12 +38,14 @@
 | [0001-two-sum](https://github.com/yokojjing/coding-practice-notes/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/yokojjing/coding-practice-notes/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/yokojjing/coding-practice-notes/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/yokojjing/coding-practice-notes/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yokojjing/coding-practice-notes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/yokojjing/coding-practice-notes/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/yokojjing/coding-practice-notes/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/yokojjing/coding-practice-notes/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/yokojjing/coding-practice-notes/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/yokojjing/coding-practice-notes/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/yokojjing/coding-practice-notes/tree/master/0424-longest-repeating-character-replacement) |
@@ -70,6 +72,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/yokojjing/coding-practice-notes/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/yokojjing/coding-practice-notes/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yokojjing/coding-practice-notes/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |

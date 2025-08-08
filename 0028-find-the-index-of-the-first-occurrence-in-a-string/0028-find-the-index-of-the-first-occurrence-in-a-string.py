@@ -24,14 +24,13 @@ class Solution:
             if haystack[i] == needle[j]:
                 i += 1
                 j += 1
+                if j == len(needle):
+                    return i-j
             elif j != 0:
                 j = needle_lps[j-1]
             else:
                 i += 1
-        if j == len(needle):
-            return i-j
-        else:
-            return -1
+        return -1
         
 
         

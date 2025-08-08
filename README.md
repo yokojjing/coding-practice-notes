@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yokojjing/coding-practice-notes/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/yokojjing/coding-practice-notes/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yokojjing/coding-practice-notes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/yokojjing/coding-practice-notes/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/yokojjing/coding-practice-notes/tree/master/0048-rotate-image) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/yokojjing/coding-practice-notes/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/yokojjing/coding-practice-notes/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yokojjing/coding-practice-notes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/yokojjing/coding-practice-notes/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/yokojjing/coding-practice-notes/tree/master/0242-valid-anagram) |
@@ -104,4 +106,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yokojjing/coding-practice-notes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/yokojjing/coding-practice-notes/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

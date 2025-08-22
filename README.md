@@ -90,6 +90,7 @@
 | [0066-plus-one](https://github.com/yokojjing/coding-practice-notes/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/yokojjing/coding-practice-notes/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/yokojjing/coding-practice-notes/tree/master/0189-rotate-array) |
+| [0326-power-of-three](https://github.com/yokojjing/coding-practice-notes/tree/master/0326-power-of-three) |
 | [0384-shuffle-an-array](https://github.com/yokojjing/coding-practice-notes/tree/master/0384-shuffle-an-array) |
 | [0412-fizz-buzz](https://github.com/yokojjing/coding-practice-notes/tree/master/0412-fizz-buzz) |
 ## Sorting
@@ -144,6 +145,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/yokojjing/coding-practice-notes/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/yokojjing/coding-practice-notes/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/yokojjing/coding-practice-notes/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/yokojjing/coding-practice-notes/tree/master/0326-power-of-three) |
 ## Stack
 |  |
 | ------- |

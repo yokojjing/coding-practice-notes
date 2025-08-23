@@ -7,9 +7,7 @@ class Solution:
         for i in lookup:
             if i-1 not in lookup:
                 num = i
-                current = 1
                 while num+1 in lookup:
-                    current += 1
                     num += 1
-                max_sum = max(max_sum,current)
+                max_sum = max(max_sum,num-i+1)
         return max_sum

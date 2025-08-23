@@ -11,6 +11,5 @@ class Solution:
                 while num+1 in lookup:
                     current += 1
                     num += 1
-                if current > max_sum:
-                    max_sum = current
+                max_sum = max(max_sum,current)
         return max_sum

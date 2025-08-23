@@ -24,6 +24,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yokojjing/coding-practice-notes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/yokojjing/coding-practice-notes/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yokojjing/coding-practice-notes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/yokojjing/coding-practice-notes/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/yokojjing/coding-practice-notes/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/yokojjing/coding-practice-notes/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/yokojjing/coding-practice-notes/tree/master/0198-house-robber) |
@@ -52,6 +53,7 @@
 | [0001-two-sum](https://github.com/yokojjing/coding-practice-notes/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/yokojjing/coding-practice-notes/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/yokojjing/coding-practice-notes/tree/master/0036-valid-sudoku) |
+| [0128-longest-consecutive-sequence](https://github.com/yokojjing/coding-practice-notes/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/yokojjing/coding-practice-notes/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/yokojjing/coding-practice-notes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yokojjing/coding-practice-notes/tree/master/0242-valid-anagram) |
@@ -223,4 +225,8 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/yokojjing/coding-practice-notes/tree/master/0412-fizz-buzz) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/yokojjing/coding-practice-notes/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

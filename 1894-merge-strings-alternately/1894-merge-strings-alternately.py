@@ -6,5 +6,6 @@ class Solution:
             result.append(word1[i])
             result.append(word2[i])
             i += 1
-        result.append(word1[i:]+word2[i:])
+        result.append(word1[i:])
+        result.append(word2[i:])
         return ''.join(result)

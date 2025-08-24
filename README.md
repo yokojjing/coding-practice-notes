@@ -81,6 +81,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/yokojjing/coding-practice-notes/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/yokojjing/coding-practice-notes/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/yokojjing/coding-practice-notes/tree/master/0424-longest-repeating-character-replacement) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/yokojjing/coding-practice-notes/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/yokojjing/coding-practice-notes/tree/master/1894-merge-strings-alternately) |
 ## Sliding Window
 |  |
@@ -113,6 +114,7 @@
 | [0326-power-of-three](https://github.com/yokojjing/coding-practice-notes/tree/master/0326-power-of-three) |
 | [0384-shuffle-an-array](https://github.com/yokojjing/coding-practice-notes/tree/master/0384-shuffle-an-array) |
 | [0412-fizz-buzz](https://github.com/yokojjing/coding-practice-notes/tree/master/0412-fizz-buzz) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/yokojjing/coding-practice-notes/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Sorting
 |  |
 | ------- |

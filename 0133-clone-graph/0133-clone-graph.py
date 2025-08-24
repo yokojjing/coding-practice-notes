@@ -11,14 +11,14 @@ class Solution:
     def cloneGraph(self, node: Optional['Node']) -> Optional['Node']:
         if not node:
             return None
-        visit = {node:Node(node.val)}
-        queue = deque([node])
-        while queue:
-            cur = queue.popleft()
-            for neighbor in cur.neighbors:
-                if neighbor not in visit:
-                    visit[neighbor] = Node(neighbor.val)
-                    queue.append(neighbor)
-                visit[cur].neighbors.append(visit[neighbor])
-        return visit[node]
+        visit = {}
+        def dfs(node):
+            if node in visit:
+                return visit[node]
+            visit[node] = Node(node.val)
+            for neighbor in node.neighbors:
+                visit[neighbor] = dfs(neighbor)
+                visit[node].neighbors.append(visit[neighbor])
+            return visit[node]
+        return dfs(node)
             

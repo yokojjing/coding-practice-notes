@@ -1,7 +1,5 @@
 class Solution:
     def countSubstrings(self, s: str) -> int:
-        if len(s) == 1:
-            return 1
         def expand(left,right):
             while left>=0 and right<=len(s)-1 and s[left]==s[right]:
                 left -= 1

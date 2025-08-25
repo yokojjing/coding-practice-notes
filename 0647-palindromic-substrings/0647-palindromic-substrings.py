@@ -6,6 +6,6 @@ class Solution:
                 right += 1
             return (right-left)//2
         sub_sum = 0
-        for i in range(0,len(s)-1):
+        for i in range(len(s)):
             sub_sum += expand(i,i) + expand(i,i+1)
-        return sub_sum+1
+        return sub_sum

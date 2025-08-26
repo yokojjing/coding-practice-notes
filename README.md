@@ -27,6 +27,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yokojjing/coding-practice-notes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/yokojjing/coding-practice-notes/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/yokojjing/coding-practice-notes/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/yokojjing/coding-practice-notes/tree/master/0139-word-break) |
 | [0189-rotate-array](https://github.com/yokojjing/coding-practice-notes/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/yokojjing/coding-practice-notes/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/yokojjing/coding-practice-notes/tree/master/0217-contains-duplicate) |
@@ -61,6 +62,7 @@
 | [0036-valid-sudoku](https://github.com/yokojjing/coding-practice-notes/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/yokojjing/coding-practice-notes/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/yokojjing/coding-practice-notes/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/yokojjing/coding-practice-notes/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/yokojjing/coding-practice-notes/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/yokojjing/coding-practice-notes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yokojjing/coding-practice-notes/tree/master/0242-valid-anagram) |
@@ -79,6 +81,7 @@
 | [0020-valid-parentheses](https://github.com/yokojjing/coding-practice-notes/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yokojjing/coding-practice-notes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/yokojjing/coding-practice-notes/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/yokojjing/coding-practice-notes/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/yokojjing/coding-practice-notes/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/yokojjing/coding-practice-notes/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/yokojjing/coding-practice-notes/tree/master/0387-first-unique-character-in-a-string) |
@@ -100,6 +103,7 @@
 | [0070-climbing-stairs](https://github.com/yokojjing/coding-practice-notes/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/yokojjing/coding-practice-notes/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yokojjing/coding-practice-notes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/yokojjing/coding-practice-notes/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/yokojjing/coding-practice-notes/tree/master/0198-house-robber) |
 | [0647-palindromic-substrings](https://github.com/yokojjing/coding-practice-notes/tree/master/0647-palindromic-substrings) |
 ## Greedy
@@ -164,6 +168,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/yokojjing/coding-practice-notes/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/yokojjing/coding-practice-notes/tree/master/0139-word-break) |
 ## Linked List
 |  |
 | ------- |
@@ -232,6 +237,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/yokojjing/coding-practice-notes/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/yokojjing/coding-practice-notes/tree/master/0139-word-break) |
 ## Design
 |  |
 | ------- |

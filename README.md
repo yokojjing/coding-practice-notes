@@ -29,6 +29,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/yokojjing/coding-practice-notes/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/yokojjing/coding-practice-notes/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/yokojjing/coding-practice-notes/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/yokojjing/coding-practice-notes/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/yokojjing/coding-practice-notes/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/yokojjing/coding-practice-notes/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/yokojjing/coding-practice-notes/tree/master/0217-contains-duplicate) |
@@ -107,6 +108,7 @@
 | [0118-pascals-triangle](https://github.com/yokojjing/coding-practice-notes/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yokojjing/coding-practice-notes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/yokojjing/coding-practice-notes/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/yokojjing/coding-practice-notes/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/yokojjing/coding-practice-notes/tree/master/0198-house-robber) |
 | [0647-palindromic-substrings](https://github.com/yokojjing/coding-practice-notes/tree/master/0647-palindromic-substrings) |
 ## Greedy

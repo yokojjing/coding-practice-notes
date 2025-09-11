@@ -85,6 +85,7 @@
 | [0014-longest-common-prefix](https://github.com/yokojjing/coding-practice-notes/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/yokojjing/coding-practice-notes/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yokojjing/coding-practice-notes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0115-distinct-subsequences](https://github.com/yokojjing/coding-practice-notes/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/yokojjing/coding-practice-notes/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/yokojjing/coding-practice-notes/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/yokojjing/coding-practice-notes/tree/master/0242-valid-anagram) |
@@ -106,6 +107,7 @@
 | [0005-longest-palindromic-substring](https://github.com/yokojjing/coding-practice-notes/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/yokojjing/coding-practice-notes/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/yokojjing/coding-practice-notes/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/yokojjing/coding-practice-notes/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/yokojjing/coding-practice-notes/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yokojjing/coding-practice-notes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/yokojjing/coding-practice-notes/tree/master/0139-word-break) |
